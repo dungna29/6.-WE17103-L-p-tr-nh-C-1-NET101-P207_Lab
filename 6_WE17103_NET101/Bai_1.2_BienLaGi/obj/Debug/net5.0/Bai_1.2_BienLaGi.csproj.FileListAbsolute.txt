@@ -1,0 +1,16 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\bin\Debug\net5.0\Bai_1.2_BienLaGi.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\bin\Debug\net5.0\Bai_1.2_BienLaGi.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\bin\Debug\net5.0\Bai_1.2_BienLaGi.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\bin\Debug\net5.0\Bai_1.2_BienLaGi.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\bin\Debug\net5.0\Bai_1.2_BienLaGi.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\bin\Debug\net5.0\ref\Bai_1.2_BienLaGi.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\bin\Debug\net5.0\Bai_1.2_BienLaGi.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.csprojAssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\ref\Bai_1.2_BienLaGi.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.2_BienLaGi\obj\Debug\net5.0\Bai_1.2_BienLaGi.genruntimeconfig.cache

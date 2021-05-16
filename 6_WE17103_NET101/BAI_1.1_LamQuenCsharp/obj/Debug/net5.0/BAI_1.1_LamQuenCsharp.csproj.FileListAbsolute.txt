@@ -13,3 +13,4 @@ F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\BAI_1.1_LamQuenCsharp\obj\Debug\net5.0\ref\BAI_1.1_LamQuenCsharp.dll
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\BAI_1.1_LamQuenCsharp\obj\Debug\net5.0\BAI_1.1_LamQuenCsharp.pdb
 F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\BAI_1.1_LamQuenCsharp\obj\Debug\net5.0\BAI_1.1_LamQuenCsharp.genruntimeconfig.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\BAI_1.1_LamQuenCsharp\obj\Debug\net5.0\BAI_1.1_LamQuenCsharp.csprojAssemblyReference.cache
