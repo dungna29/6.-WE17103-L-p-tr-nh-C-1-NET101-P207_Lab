@@ -1,0 +1,15 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\bin\Debug\net5.0\Bai_1.5_ToanTu.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\bin\Debug\net5.0\Bai_1.5_ToanTu.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\bin\Debug\net5.0\Bai_1.5_ToanTu.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\bin\Debug\net5.0\Bai_1.5_ToanTu.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\bin\Debug\net5.0\Bai_1.5_ToanTu.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\bin\Debug\net5.0\ref\Bai_1.5_ToanTu.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\bin\Debug\net5.0\Bai_1.5_ToanTu.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\Bai_1.5_ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\Bai_1.5_ToanTu.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\Bai_1.5_ToanTu.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\Bai_1.5_ToanTu.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\Bai_1.5_ToanTu.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\ref\Bai_1.5_ToanTu.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\Bai_1.5_ToanTu.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.5_ToanTu\obj\Debug\net5.0\Bai_1.5_ToanTu.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\bin\Debug\net5.0\Bai_1.7_CauLenh_Else.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\bin\Debug\net5.0\Bai_1.7_CauLenh_Else.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\bin\Debug\net5.0\Bai_1.7_CauLenh_Else.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\bin\Debug\net5.0\Bai_1.7_CauLenh_Else.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\bin\Debug\net5.0\Bai_1.7_CauLenh_Else.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\bin\Debug\net5.0\ref\Bai_1.7_CauLenh_Else.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\bin\Debug\net5.0\Bai_1.7_CauLenh_Else.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\Bai_1.7_CauLenh_Else.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\Bai_1.7_CauLenh_Else.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\Bai_1.7_CauLenh_Else.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\Bai_1.7_CauLenh_Else.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\Bai_1.7_CauLenh_Else.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\ref\Bai_1.7_CauLenh_Else.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\Bai_1.7_CauLenh_Else.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_1.7_CauLenh_Else\obj\Debug\net5.0\Bai_1.7_CauLenh_Else.genruntimeconfig.cache
