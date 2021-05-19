@@ -29,6 +29,20 @@ namespace Bai_2._1_BAI_TAP_TONG_HOP
              *  + Nếu là NỮ ít tuổi thì in ra CHÀO EM + TÊN + TUỔI + GIỚI TÍNH
              *  + NẾU Bằng tuổi thì in ra CHÀO BẠN + TÊN + TUỔI + GIỚI TÍNH
              */
+            do
+            {
+                string ten;
+                int namSinhBanThan = 1989,namsinh,gioitinh;
+                Console.WriteLine("Mời bạn nhập tên: ");
+                ten = Console.ReadLine();
+                Console.WriteLine("Mời bạn nhập giới tính (1-NAM | 0-NỮ): ");
+                gioitinh = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Mời bạn nhập năm sinh: ");
+                namsinh = Convert.ToInt32(Console.ReadLine());
+                string anh = (gioitinh == 1) && (namSinhBanThan > namsinh) ? "Anh" : null;
+                string chi = (gioitinh == 0) && (namSinhBanThan > namsinh) ? "Chị" : null;
+                Console.WriteLine("Chào {0} {1}",(anh == null && chi == null)?"Em":anh!=null?"Anh":"Chị",ten);
+            } while (true);
         }
     }
 }
