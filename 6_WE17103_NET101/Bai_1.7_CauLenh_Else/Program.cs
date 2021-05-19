@@ -42,6 +42,37 @@ namespace Bai_1._7_CauLenh_Else
             *   - Không được sử dụng else if hoặc chỉ if không để giải bài này mà phải dùng if else
              * + 1 điểm thẳng vào khi đi thi C#1
             */
+            double diemCsharp2 = 5;
+            if (diemCsharp2>=9 && diemCsharp1<=10)
+            {
+                Console.WriteLine("Bạn học C# Xuất Sắc");
+            }
+            else
+            {
+                if (diemCsharp2 >= 8 && diemCsharp1 < 9)
+                {
+                    Console.WriteLine("Bạn học C# Giỏi");
+                }
+                else
+                {
+                    if (diemCsharp2 >= 7 && diemCsharp1 <8)
+                    {
+                        Console.WriteLine("Bạn học C# Khá");
+                    }
+                    else
+                    {
+                        if (diemCsharp2 >= 5 && diemCsharp1 < 7)
+                        {
+                            Console.WriteLine("Bạn học C# TB");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Bạn phải học lại");
+                        }
+                    }
+                }
+            }
+
         }
     }
 }
