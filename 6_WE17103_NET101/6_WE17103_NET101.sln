@@ -17,13 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_1.6_CauLenh_IF", "Bai_1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_1.7_CauLenh_Else", "Bai_1.7_CauLenh_Else\Bai_1.7_CauLenh_Else.csproj", "{E6324070-6397-4B84-B1B4-639E894D86B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_1.8_CauLenh_Else_If", "Bai_1.8_CauLenh_Else_If\Bai_1.8_CauLenh_Else_If.csproj", "{44A287E9-65CD-40D0-BC4E-42D4FB40B27B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_1.8_CauLenh_Else_If", "Bai_1.8_CauLenh_Else_If\Bai_1.8_CauLenh_Else_If.csproj", "{44A287E9-65CD-40D0-BC4E-42D4FB40B27B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_1.9_ToanTuBaNgoi", "Bai_1.9_ToanTuBaNgoi\Bai_1.9_ToanTuBaNgoi.csproj", "{DB3C00A4-DDB1-4842-ACDF-41821B8B6E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_1.9_ToanTuBaNgoi", "Bai_1.9_ToanTuBaNgoi\Bai_1.9_ToanTuBaNgoi.csproj", "{DB3C00A4-DDB1-4842-ACDF-41821B8B6E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.0_CauLenh_Switch_Case", "Bai_2.0_CauLenh_Switch_Case\Bai_2.0_CauLenh_Switch_Case.csproj", "{2655F236-E379-4F66-B5C1-BFDEC57872B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.0_CauLenh_Switch_Case", "Bai_2.0_CauLenh_Switch_Case\Bai_2.0_CauLenh_Switch_Case.csproj", "{2655F236-E379-4F66-B5C1-BFDEC57872B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.1_BAI_TAP_TONG_HOP", "Bai_2.1_BAI_TAP_TONG_HOP\Bai_2.1_BAI_TAP_TONG_HOP.csproj", "{4A96B792-C1A6-4473-913E-2F972ABAD07B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.1_BAI_TAP_TONG_HOP", "Bai_2.1_BAI_TAP_TONG_HOP\Bai_2.1_BAI_TAP_TONG_HOP.csproj", "{4A96B792-C1A6-4473-913E-2F972ABAD07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.2_VongLap_For_While_Do_While", "Bai_2.2_VongLap_For_While_Do_While\Bai_2.2_VongLap_For_While_Do_While.csproj", "{1A0F4C3F-1DC2-4186-A533-F520319D3FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.3_ViTongHopVongLap", "Bai_2.3_ViTongHopVongLap\Bai_2.3_ViTongHopVongLap.csproj", "{C042C757-6513-4318-A721-ECA396216D00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{4A96B792-C1A6-4473-913E-2F972ABAD07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A96B792-C1A6-4473-913E-2F972ABAD07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A96B792-C1A6-4473-913E-2F972ABAD07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0F4C3F-1DC2-4186-A533-F520319D3FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0F4C3F-1DC2-4186-A533-F520319D3FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0F4C3F-1DC2-4186-A533-F520319D3FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0F4C3F-1DC2-4186-A533-F520319D3FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C042C757-6513-4318-A721-ECA396216D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C042C757-6513-4318-A721-ECA396216D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C042C757-6513-4318-A721-ECA396216D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C042C757-6513-4318-A721-ECA396216D00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
