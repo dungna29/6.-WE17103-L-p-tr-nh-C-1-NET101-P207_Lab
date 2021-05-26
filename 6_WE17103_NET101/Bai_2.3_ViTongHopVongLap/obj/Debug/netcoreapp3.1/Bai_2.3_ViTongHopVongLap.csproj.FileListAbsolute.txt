@@ -1,0 +1,13 @@
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\bin\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.exe
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\bin\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.deps.json
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\bin\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.runtimeconfig.json
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\bin\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.runtimeconfig.dev.json
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\bin\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.dll
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\bin\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.pdb
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\obj\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.csprojAssemblyReference.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\obj\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.AssemblyInfoInputs.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\obj\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.AssemblyInfo.cs
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\obj\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.csproj.CoreCompileInputs.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\obj\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.dll
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\obj\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.pdb
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.3_ViTongHopVongLap\obj\Debug\netcoreapp3.1\Bai_2.3_ViTongHopVongLap.genruntimeconfig.cache
