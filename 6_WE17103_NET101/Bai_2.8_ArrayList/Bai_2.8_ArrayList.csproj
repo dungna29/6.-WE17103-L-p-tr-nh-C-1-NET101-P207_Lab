@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Bai_2._8_ArrayList</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Program.cs~RF9997d3.TMP" />
+  </ItemGroup>
+
+</Project>

@@ -29,11 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.2_VongLap_For_While_D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.3_ViTongHopVongLap", "Bai_2.3_ViTongHopVongLap\Bai_2.3_ViTongHopVongLap.csproj", "{C042C757-6513-4318-A721-ECA396216D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.4_VongLapFoeach", "Bai_2.4_VongLapFoeach\Bai_2.4_VongLapFoeach.csproj", "{ADFDB67E-E495-424E-9C37-CD151979C07E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.4_VongLapFoeach", "Bai_2.4_VongLapFoeach\Bai_2.4_VongLapFoeach.csproj", "{ADFDB67E-E495-424E-9C37-CD151979C07E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.5_Array", "Bai_2.5_Array\Bai_2.5_Array.csproj", "{9D3C148A-46B3-474B-9065-D5B221D91867}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.5_Array", "Bai_2.5_Array\Bai_2.5_Array.csproj", "{9D3C148A-46B3-474B-9065-D5B221D91867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.5_BaiTapArray", "Bai_2.5_BaiTapArray\Bai_2.5_BaiTapArray.csproj", "{54681E89-C945-46E0-BD77-8CB9FD64B7FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.6_BaiTapArray", "Bai_2.5_BaiTapArray\Bai_2.6_BaiTapArray.csproj", "{54681E89-C945-46E0-BD77-8CB9FD64B7FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.7_ThuatToanNoiBot", "Bai_2.7_ThuatToanNoiBot\Bai_2.7_ThuatToanNoiBot.csproj", "{4D1E92E9-9DE3-4919-A511-15D7DFC23387}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.8_ArrayList", "Bai_2.8_ArrayList\Bai_2.8_ArrayList.csproj", "{A2AA588E-9C9E-461A-ADBD-F3FFA454932F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2_9_List", "Bai_2_9_List\Bai_2_9_List.csproj", "{AA801019-040F-4814-8177-9BE362378FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_3_0_ChuaBaiTapLab45", "BAI_3_0_ChuaBaiTapLab45\BAI_3_0_ChuaBaiTapLab45.csproj", "{C370F3B5-BA3F-4412-BF05-36B52B812E2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +113,22 @@ Global
 		{54681E89-C945-46E0-BD77-8CB9FD64B7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54681E89-C945-46E0-BD77-8CB9FD64B7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54681E89-C945-46E0-BD77-8CB9FD64B7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1E92E9-9DE3-4919-A511-15D7DFC23387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1E92E9-9DE3-4919-A511-15D7DFC23387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1E92E9-9DE3-4919-A511-15D7DFC23387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1E92E9-9DE3-4919-A511-15D7DFC23387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2AA588E-9C9E-461A-ADBD-F3FFA454932F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2AA588E-9C9E-461A-ADBD-F3FFA454932F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2AA588E-9C9E-461A-ADBD-F3FFA454932F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2AA588E-9C9E-461A-ADBD-F3FFA454932F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA801019-040F-4814-8177-9BE362378FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA801019-040F-4814-8177-9BE362378FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA801019-040F-4814-8177-9BE362378FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA801019-040F-4814-8177-9BE362378FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C370F3B5-BA3F-4412-BF05-36B52B812E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C370F3B5-BA3F-4412-BF05-36B52B812E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C370F3B5-BA3F-4412-BF05-36B52B812E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C370F3B5-BA3F-4412-BF05-36B52B812E2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

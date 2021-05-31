@@ -1,0 +1,16 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\bin\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\bin\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\bin\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\bin\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\bin\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\bin\Debug\net5.0\ref\Bai_2.7_ThuatToanNoiBot.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\bin\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.csproj.AssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\ref\Bai_2.7_ThuatToanNoiBot.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SM21_Block1\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\6_WE17103_NET101\Bai_2.7_ThuatToanNoiBot\obj\Debug\net5.0\Bai_2.7_ThuatToanNoiBot.genruntimeconfig.cache

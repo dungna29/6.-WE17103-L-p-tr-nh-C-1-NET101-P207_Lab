@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Bai_2._5_BaiTapArray
 {
@@ -10,7 +11,35 @@ namespace Bai_2._5_BaiTapArray
         */
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
+            //Bài 1:
+            int[] arrNumbers;//Khai báo
+            Console.WriteLine("Mời bạn nhập số lượng: ");
+            arrNumbers = new int[Convert.ToInt32(Console.ReadLine())];//Khởi tạo
+            for (int i = 0; i < arrNumbers.Length; i++)
+            {
+                Console.WriteLine("Mời bạn nhập vào Index " + i +" : ");
+                arrNumbers[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            Console.WriteLine("=====Bạn đã hoàn thành việc nhập  dữ liệu=====");
+            Console.WriteLine("Dãy số chẵn bạn vừa nhập là: ");
+            foreach (var x in arrNumbers)
+            {
+                if (x %2 == 0)
+                {
+                    Console.Write(x + " ");
+                }
+            }
+            Console.WriteLine("Dãy số lẻ bạn vừa nhập là: ");
+            foreach (var x in arrNumbers)
+            {
+                if (x % 2 != 0)
+                {
+                    Console.Write(x + " ");
+                }
+            }
+
+            Console.WriteLine();
         }
     }
 }
