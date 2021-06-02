@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_3_1_OOP_LapTrinhHuongDoiTuong\\Bai_3_1_OOP_LapTrinhHuongDoiTuong.csproj": {}
+  },
+  "projects": {
+    "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_3_1_OOP_LapTrinhHuongDoiTuong\\Bai_3_1_OOP_LapTrinhHuongDoiTuong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_3_1_OOP_LapTrinhHuongDoiTuong\\Bai_3_1_OOP_LapTrinhHuongDoiTuong.csproj",
+        "projectName": "Bai_3_1_OOP_LapTrinhHuongDoiTuong",
+        "projectPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_3_1_OOP_LapTrinhHuongDoiTuong\\Bai_3_1_OOP_LapTrinhHuongDoiTuong.csproj",
+        "packagesPath": "C:\\Users\\Dungna29\\.nuget\\packages\\",
+        "outputPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_3_1_OOP_LapTrinhHuongDoiTuong\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dungna29\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
