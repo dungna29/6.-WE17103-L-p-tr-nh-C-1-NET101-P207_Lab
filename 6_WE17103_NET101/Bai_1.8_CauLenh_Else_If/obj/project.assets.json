@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dungna29\\.nuget\\packages\\": {}
+    "C:\\Users\\DungnaPC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_1.8_CauLenh_Else_If\\Bai_1.8_CauLenh_Else_If.csproj",
+      "projectUniqueName": "F:\\Dungna29 Fpoly\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_1.8_CauLenh_Else_If\\Bai_1.8_CauLenh_Else_If.csproj",
       "projectName": "Bai_1.8_CauLenh_Else_If",
-      "projectPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_1.8_CauLenh_Else_If\\Bai_1.8_CauLenh_Else_If.csproj",
-      "packagesPath": "C:\\Users\\Dungna29\\.nuget\\packages\\",
-      "outputPath": "D:\\Google Driver Dungna29\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_1.8_CauLenh_Else_If\\obj\\",
+      "projectPath": "F:\\Dungna29 Fpoly\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_1.8_CauLenh_Else_If\\Bai_1.8_CauLenh_Else_If.csproj",
+      "packagesPath": "C:\\Users\\DungnaPC\\.nuget\\packages\\",
+      "outputPath": "F:\\Dungna29 Fpoly\\8. Demo\\Demo C#1\\SM21_Block1\\6.-WE17103-L-p-tr-nh-C-1-NET101-P207_Lab\\6_WE17103_NET101\\Bai_1.8_CauLenh_Else_If\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Dungna29\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DungnaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
