@@ -19,9 +19,9 @@ namespace BAI_TAP_CRUD_LIST
         {
             _lstStudents = new List<Student>();//Khởi tạo List đối tượng để sử dụng khi class StudentService được khởi tạo
             _student = new Student("PH001", "Dũng", 2000, "UDPM");
-            _lstStudents.Add(_student); 
+            _lstStudents.Add(_student);
             _student = new Student("PH002", "Hoàng", 2001, "WEB");
-            _lstStudents.Add(_student); 
+            _lstStudents.Add(_student);
             _student = new Student("PH003", "Nhung", 2002, "UDPM");
             _lstStudents.Add(_student);
             _student = new Student("PH004", "Vương", 2003, "MOB");
@@ -59,7 +59,7 @@ namespace BAI_TAP_CRUD_LIST
                 {
                     x.inRaManHinh();
                 }
-                
+
             }
         }
 
@@ -110,7 +110,7 @@ namespace BAI_TAP_CRUD_LIST
                 _lstStudents.Add(_student);//Sau khi nhập 1 xong đối tượng tiến hành thêm đối tượng vào List
             }
         }
-        public void  editStudentByMsvList()
+        public void editStudentByMsvList()
         {
             Console.Write("Mời bạn nhập số mã SV cần sửa: ");
             _input = Console.ReadLine();
