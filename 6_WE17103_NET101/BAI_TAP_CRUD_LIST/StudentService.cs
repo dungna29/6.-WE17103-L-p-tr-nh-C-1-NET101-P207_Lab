@@ -109,6 +109,19 @@ namespace BAI_TAP_CRUD_LIST
                 _student.NganhHoc = Console.ReadLine();
                 _lstStudents.Add(_student);//Sau khi nhập 1 xong đối tượng tiến hành thêm đối tượng vào List
             }
+        } 
+        public void addNStudentsListTheoKieuLuoi()
+        {
+            _input = getInputValue("số lượng SV");
+            for (int i = 0; i < Convert.ToInt32(_input); i++)
+            {
+                _student = new Student();
+                _student.Msv = getInputValue("mã");
+                _student.Ten = getInputValue("tên");
+                _student.NamSinh = Convert.ToInt32(getInputValue("năm sinh"));
+                _student.NganhHoc = getInputValue("ngành");
+                _lstStudents.Add(_student);//Sau khi nhập 1 xong đối tượng tiến hành thêm đối tượng vào List
+            }
         }
         public void editStudentByMsvList()
         {
@@ -182,6 +195,25 @@ namespace BAI_TAP_CRUD_LIST
             }
         }
 
+        public void sort()
+        {
+            //Nếu đầu bài yêu cầu in ra danh sách đã sắp xêp thì làm cách sau
+            // Cách 1 OrderBy là sắp xếp tăng dần
+            foreach (var x in _lstStudents.OrderByDescending(c=>c.Msv))
+            {
+                x.inRaManHinh();
+            }
+            //_lstStudents.OrderByDescending(c=>c.Msv); //sẽ ko làm thay đổi sắp xếp của List danh sách mà chỉ giúp thực hiện thay đổi tại thời điểm gọi nó
+            //Nếu muốn dùng LINQ để thay đổi cả List danh sách thì cần làm như sau
+            var lstTemp = _lstStudents.OrderByDescending(c => c.Msv).ToList();
+            _lstStudents = new List<Student>();//Khởi tạo lại list gốc
+            _lstStudents = lstTemp;
+
+            //Cách 2: sử dụng sort
+            _lstStudents.Sort((x,y)=>x.Msv.CompareTo(y.Msv));
+
+        }
+
         public void getListStudents()
         {
             foreach (var x in _lstStudents)
@@ -190,6 +222,55 @@ namespace BAI_TAP_CRUD_LIST
             }
         }
 
+        //Một vài phương thức giúp lười hơn trong lập trình
+        //Phương thức lấy giá trị từ bàn phím do người dùng nhập vào
+
+        public string getInputValue(string mesg)
+        {
+            Console.Write($"Mời bạn nhập {mesg} :");
+            return Console.ReadLine();//Trả về giá trị mà người dùng nhập vào
+        }
+
+        #region Phương xóa tìm kiếm trên 1 dòng code
+
+        public int getIndexSinhVienByMsv()
+        {
+
+            _input = getInputValue("mã sinh viên");
+            for (int i = 0; i < _lstStudents.Count; i++)
+            {
+                if (_lstStudents[i].Msv == _input)
+                {
+                    return i;//Vị trí đối tượng đang nằm ở index nào trong List
+                }
+            }
+
+            return -1;//Không tìm thấy
+        }
+        public void RemoveSinhVien1DongCode()
+        {
+            //_lstStudents.RemoveAt(getIndexSinhVienByMsv());
+
+            //Cách 2: Xóa sử dụng LINQ ko cần phải viết phương thức chung bên ngoài
+            Console.Write("Mời bạn nhập số mã SV: ");
+            _input = Console.ReadLine();
+            _lstStudents.RemoveAt(_lstStudents.FindIndex(c=>c.Msv == _input));
+        }
+        public void FintSinhVien1DongCode()
+        {
+            //Cách 1: Sử dụng phương thức getindex
+            _lstStudents[getIndexSinhVienByMsv()].inRaManHinh();
+
+            //Cách 2: Sử dụng LINQ để tìm kiếm
+            Console.Write("Mời bạn nhập số mã SV: ");
+            _input = Console.ReadLine();
+            _lstStudents[_lstStudents.FindIndex(c => c.Msv == _input)].inRaManHinh();
+
+            //Hoặc cách dưới đây
+            _lstStudents.Where(c=>c.Msv == _input).FirstOrDefault().inRaManHinh();
+        }
+
+        #endregion
         #endregion
     }
 }
